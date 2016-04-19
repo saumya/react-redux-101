@@ -1,0 +1,10 @@
+##### MAC
+.DS_Store
+
+##### Node
+node_modules/
+
+##### ReactApplication
+index.html
+build/
+buildReact/
